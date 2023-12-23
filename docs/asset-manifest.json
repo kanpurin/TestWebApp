@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/RandomGenerator/static/css/main.e65b4bbf.css",
-    "main.js": "/RandomGenerator/static/js/main.f9ef89fd.js",
-    "static/js/787.012113a7.chunk.js": "/RandomGenerator/static/js/787.012113a7.chunk.js",
-    "index.html": "/RandomGenerator/index.html",
-    "main.e65b4bbf.css.map": "/RandomGenerator/static/css/main.e65b4bbf.css.map",
-    "main.f9ef89fd.js.map": "/RandomGenerator/static/js/main.f9ef89fd.js.map",
-    "787.012113a7.chunk.js.map": "/RandomGenerator/static/js/787.012113a7.chunk.js.map"
+    "main.css": "/TestWebApp/static/css/main.e65b4bbf.css",
+    "main.js": "/TestWebApp/static/js/main.f9ef89fd.js",
+    "static/js/787.012113a7.chunk.js": "/TestWebApp/static/js/787.012113a7.chunk.js",
+    "index.html": "/TestWebApp/index.html",
+    "main.e65b4bbf.css.map": "/TestWebApp/static/css/main.e65b4bbf.css.map",
+    "main.f9ef89fd.js.map": "/TestWebApp/static/js/main.f9ef89fd.js.map",
+    "787.012113a7.chunk.js.map": "/TestWebApp/static/js/787.012113a7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e65b4bbf.css",
