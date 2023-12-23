@@ -17,7 +17,7 @@
     "test": "node scripts/test.js",
     "rm": "rm -rf docs",
     "mv": "move build docs",
-    "git": "git add . && git commit -m \"auto commit\" && git push origin master",
+    "git": "git add . && git commit -m \"auto commit\" && git push origin main",
     "deploy": "npm run rm && npm run build && npm run mv && npm run git"
   },
   "eslintConfig": {
